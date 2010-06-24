@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "dependencies": [
+
+  ],
+  "name": "ghoneycutt-utils",
+  "checksums": {
+    "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
+    "README": "75362251a0732d66600dedb2b87767e0",
+    "tests/init.pp": "47a8286e928a8ec70b2ee32b2b66d29a",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "metadata.json": "d34d0b70aba36510fbc2df4e667479ef",
+    "Modulefile": "0b0ab06b4dff8b41926d677903223ea1",
+    "manifests/init.pp": "a39a3918d8a718ebd3d45b8007522e04"
+  },
+  "types": [
+
+  ]
+}
