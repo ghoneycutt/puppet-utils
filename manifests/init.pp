@@ -7,7 +7,7 @@
 #
 class utils {
 
-    $utilsPackageList = [ 
+    $utilsPackageList = [
         "curl",
         "lsof",
         "lynx",
